@@ -7,3 +7,8 @@ CODE = [
 ]
 
 Yes = NotStyleCorrect = '""'
+
+
+FOO = [
+  'bar',
+    'foobar', 'fob']
